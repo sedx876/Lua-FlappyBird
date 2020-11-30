@@ -2,6 +2,8 @@
   "Lua.diagnostics.globals": [
     "push",
     "love",
-    "unpack"
+    "unpack",
+    "Class",
+    "class_commons"
   ]
 }
