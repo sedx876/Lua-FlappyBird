@@ -4,6 +4,9 @@
     "love",
     "unpack",
     "Class",
-    "class_commons"
+    "class_commons",
+    "gStateMachine",
+    "flappyFont",
+    "mediumFont"
   ]
 }
